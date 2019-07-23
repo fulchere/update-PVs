@@ -1,9 +1,12 @@
 import epics
 import time
 import numpy as np
+
 numbs = []
 for i in range(1,101):
+    # List of 100 values ranging (1->100, 0->2)
     numbs.append((i,i/50))
+
 while True:
     itr = 1
     while itr < 100:
