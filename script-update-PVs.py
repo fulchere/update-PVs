@@ -14,7 +14,7 @@ while True:
         v1 = 50 + itr*0.3 + np.random.randn()*7
         v2 = 1 + np.random.randn()*0.1
         epics.caput("DIAG_MTCA09:PICO_CH4:AVG_RD",v1)
-        epics.caput("DIAG_MTCA09:PICO_CH4:STD_RD",v2)    
+        epics.caput("DIAG_MTCA09:PICO_CH4:STD_RD",v2)  
         itr += 1
         print("avg:",v1,"std-dev:",v2)
         time.sleep(0.3)
