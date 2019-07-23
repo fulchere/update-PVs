@@ -111,7 +111,7 @@
     </annotations>
     <pvlist>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_RES_1HZ</display_name>
+            <display_name>WIRE_RES_1HZ</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_RES_1HZ</name>
             <axis>0</axis>
@@ -130,7 +130,7 @@
             <request>OPTIMIZED</request>
         </pv>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_RES</display_name>
+            <display_name>WIRE_RES</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_RES</name>
             <axis>0</axis>
@@ -149,7 +149,7 @@
             <request>OPTIMIZED</request>
         </pv>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_MA_1HZ</display_name>
+            <display_name>WIRE_MA_1HZ</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_MA_1HZ</name>
             <axis>1</axis>
@@ -168,7 +168,7 @@
             <request>OPTIMIZED</request>
         </pv>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_MA</display_name>
+            <display_name>WIRE_MA</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_RES</name>
             <axis>2</axis>
@@ -187,7 +187,7 @@
             <request>OPTIMIZED</request>
         </pv>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_V_1HZ</display_name>
+            <display_name>WIRE_V_1HZ</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_V_1HZ</name>
             <axis>3</axis>
@@ -206,7 +206,7 @@
             <request>OPTIMIZED</request>
         </pv>
         <pv>
-            <display_name>ACS_DIAG:BSM_D2500:WIRE_V</display_name>
+            <display_name>WIRE_V</display_name>
             <visible>true</visible>
             <name>ACS_DIAG:BSM_D2500:WIRE_V</name>
             <axis>4</axis>
